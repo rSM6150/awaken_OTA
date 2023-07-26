@@ -1,0 +1,26 @@
+===============
+26-07-2023
+===============
+Source Changelog:
+• Added option for users to separate ring & notification sound streams
+• Enabled and tuned split notification shade
+• Enabled few feature flags
+• Fixed an issue where few system icons failed to refresh on theme change
+• Fixed some NPE
+• Introduced smart 5G service
+• Introduced statusbar NFC icon
+• Moved Vo5G toggle right below VoLTE
+• Un-spoofed GMS while adding Google account
+• Drop useless pinnerlist
+• Added MiuiCam support
+• Added Few Missing Permissions
+• Enabled building updater For Everyone
+• Added support for loading prebuilt ddp and ac4 decoder lib
+• Moved Ignore window secure flags to display
+
+Device Changelog:
+• Added Perapp refresh rate
+• Fixed statusbar padding
+• Added spatial audio support
+• Misc changes
+
