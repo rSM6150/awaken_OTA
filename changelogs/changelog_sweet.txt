@@ -1,5 +1,5 @@
 ===============
-26-07-2023
+27-07-2023
 ===============
 Source Changelog:
 • Added option for users to separate ring & notification sound streams
@@ -17,10 +17,12 @@ Source Changelog:
 • Enabled building updater For Everyone
 • Added support for loading prebuilt ddp and ac4 decoder lib
 • Moved Ignore window secure flags to display
+• Added AC4Tbl params for dolby AC4 decoder
 
 Device Changelog:
 • Added Perapp refresh rate
 • Fixed statusbar padding
 • Added spatial audio support
+• Added dolby ac4 decoder
 • Misc changes
 
