@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1690471310,
-      "size": 2396199031,
-      "filehash": "6cf0b9a6b7955b5d63d1d7d66879d538",
-      "filename": "awaken-3.8-triton_void-sweet-unofficial-1521-20230727.zip",
-      "id": "e946cb2c88bdc20ba499b61464f52c251e3b76cf3d5d3970306fec82fdc81bd9",
+      "datetime": 1692026234,
+      "size": 2396221388,
+      "filehash": "22dde428fef00b836852eb9931da2e2a",
+      "filename": "awaken-3.9UN-triton_void-sweet-unofficial-1518-20230814.zip",
+      "id": "4bdc15ce87a5fa5fb8f26d1d99ebcc805e269514223e0b3cc23a22562e97b51c",
       "romtype": "unofficial",
-      "version": "3.8",
-      "url": "https://sourceforge.net/projects/protonplusrs/files/awaken_sweet/awaken-3.8-triton_void-sweet-unofficial-1521-20230727.zip/download"
+      "version": "3.9UN",
+      "url": "https://sourceforge.net/projects/protonplusrs/files/awaken_sweet/awaken-3.9UN-triton_void-sweet-unofficial-1518-20230814.zip/download"
     }
   ]
 }
